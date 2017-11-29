@@ -79,7 +79,7 @@
         <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
           <Font name="Bernard MT Condensed" size="18" style="0"/>
         </Property>
-        <Property name="text" type="java.lang.String" value="START"/>
+        <Property name="text" type="java.lang.String" value="Mulai langsung"/>
       </Properties>
       <Events>
         <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="startButtonActionPerformed"/>
@@ -106,7 +106,7 @@
         <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
           <Font name="Bernard MT Condensed" size="14" style="0"/>
         </Property>
-        <Property name="text" type="java.lang.String" value="ARE YOU SURE?"/>
+        <Property name="text" type="java.lang.String" value="Klik aja "/>
       </Properties>
       <Events>
         <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="cekAngkaButtonActionPerformed"/>

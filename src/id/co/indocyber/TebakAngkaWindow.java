@@ -45,7 +45,7 @@ public class TebakAngkaWindow extends javax.swing.JFrame {
 
         startButton.setBackground(new java.awt.Color(255, 255, 0));
         startButton.setFont(new java.awt.Font("Bernard MT Condensed", 0, 18)); // NOI18N
-        startButton.setText("START");
+        startButton.setText("Mulai langsung");
         startButton.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 startButtonActionPerformed(evt);
@@ -63,7 +63,7 @@ public class TebakAngkaWindow extends javax.swing.JFrame {
 
         cekAngkaButton.setBackground(new java.awt.Color(255, 255, 0));
         cekAngkaButton.setFont(new java.awt.Font("Bernard MT Condensed", 0, 14)); // NOI18N
-        cekAngkaButton.setText("ARE YOU SURE?");
+        cekAngkaButton.setText("Klik aja ");
         cekAngkaButton.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 cekAngkaButtonActionPerformed(evt);
