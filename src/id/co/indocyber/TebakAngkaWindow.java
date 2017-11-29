@@ -86,7 +86,7 @@ public class TebakAngkaWindow extends javax.swing.JFrame {
                 .addContainerGap()
                 .addComponent(petunjukLabel))
             .addGroup(layout.createSequentialGroup()
-                .addGap(111, 111, 111)
+                .addGap(110, 110, 110)
                 .addComponent(cekAngkaButton))
         );
         layout.setVerticalGroup(
@@ -99,9 +99,9 @@ public class TebakAngkaWindow extends javax.swing.JFrame {
                 .addComponent(petunjukLabel)
                 .addGap(18, 18, 18)
                 .addComponent(inputAngkaTextField, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
-                .addComponent(cekAngkaButton)
-                .addGap(0, 138, Short.MAX_VALUE))
+                .addGap(18, 18, 18)
+                .addComponent(cekAngkaButton, javax.swing.GroupLayout.PREFERRED_SIZE, 56, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(0, 95, Short.MAX_VALUE))
         );
 
         pack();
